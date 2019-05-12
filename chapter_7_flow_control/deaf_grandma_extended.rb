@@ -4,7 +4,7 @@
 ## "NO, NOT SINCE 1938!"
 # To make your program really believable have Grandma shout a different year each time, maybe any year at random between 1930 and 1950. You can't stop talking to Grandma unitl you shout "BYE".
 
-# Entension - What if Grandma doesn't want you to leave? When you shout "BYE", she should pretend not to hear you. Change your previous program so that you have to shout "BYE" three times in a row. Make sure you test your program: if you shout "BYE" 3 times, but not 3 times in a row you should still be speaking to Grandma.
+# Extension - What if Grandma doesn't want you to leave? When you shout "BYE", she should pretend not to hear you. Change your previous program so that you have to shout "BYE" three times in a row. Make sure you test your program: if you shout "BYE" 3 times, but not 3 times in a row you should still be speaking to Grandma.
 
 puts "-- You're at Grandma's house, she can't hear very well."
 puts "-- Say something to Grandma!"
